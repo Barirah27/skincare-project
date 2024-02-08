@@ -166,7 +166,7 @@ body {
     outline-offset: -10px;
     height: 550px;
     width: 850px;
-    margin: 100px 370px;
+    margin: 100px 300px;
 }
 
 #second-box {
@@ -175,7 +175,7 @@ body {
     height: 250px;
     width: 450px;
     padding: 10px 10px;
-    margin: -470px 270px;
+    margin: -470px 200px;
 }
 
 #second-box h3 {
@@ -197,7 +197,7 @@ body {
     height: 400px;
     width: 600px;
     padding: 5px 5px;
-    margin: 100px 690px;
+    margin: 100px 600px;
 }
 
 
@@ -236,7 +236,6 @@ body {
 }
 
 .box {
-    background-color: black;
     width: 300px;
     height: 300px;
 }
@@ -247,12 +246,11 @@ body {
 
 #box-1 img {
     height: 300px;
-    margin: auto;
+    margin: auto -80px;
     display: block;
 }
 
 #p-1 {
-    text-align: center;
     padding: 15px 0px;
 }
 
@@ -262,12 +260,11 @@ body {
 
 #box-2 img {
     height: 300px;
-    margin: auto;
+    margin: auto -80px;
     display: block;
 }
 
 #p-2 {
-    text-align: center;
     padding: 15px 0px;
 }
 
@@ -277,12 +274,11 @@ body {
 
 #box-3 img {
     height: 300px;
-    margin: auto;
+    margin: auto -80px;
     display: block;
 }
 
 #p-3 {
-    text-align: center;
     padding: 15px 0px;
 }
 
@@ -290,7 +286,7 @@ body {
     background-color: rgb(6, 6, 6);
     color: white;
     padding: 10px 10px;
-    margin: 80px -380px;
+    margin: 80px -450px;
     font-size: 1rem;
     cursor: pointer;
     border-radius: 10px;
@@ -323,7 +319,7 @@ body {
 
 #box1 img {
     height: 300px;
-    margin: 156px 360px;
+    margin: 156px 300px;
     display: block;
 }
 
@@ -348,7 +344,7 @@ body {
 
 #box3 img {
     height: 300px;
-    margin: -689px 920px;
+    margin: -689px 810px;
     display: block;
 }
 
@@ -363,7 +359,7 @@ body {
     padding: 11px 10px;
     background-color: rgb(6, 6, 6);
     color: white;
-    margin: -662px 662px;
+    margin: -662px auto;
     font-size: 1rem;
     cursor: pointer;
     width: 175px;
@@ -460,7 +456,7 @@ body {
     height: 300px;
     width: 275px;
     margin-top: 70px;
-    margin-left: 300px;
+    margin-left: 250px;
 }
 
 #pg1 {
@@ -526,7 +522,7 @@ body {
     padding: 11px 10px;
     background-color: rgb(6, 6, 6);
     color: white;
-    margin: 60px 620px;
+    margin: 60px 500px;
     font-size: 1rem;
     cursor: pointer;
     width: 300px;
